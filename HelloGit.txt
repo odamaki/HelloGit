@@ -2,3 +2,6 @@ Hello Git.
 Git is easy to learn and has a tiny footprint with lightning fast performance.
 
  It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features
+
+
+"Neuromancer," the boy said, slitting long gray eyes against the rising sun. "The lane to the land of the dead. Where you are, my friend. Marie-France, my lady, she prepared this road, but her lord choked her off before I could read the book of her days. Neuro from the nerves, th e silver paths. Romancer. Neuromancer. I call up the dead. But no, my friend," and the boy did a little dance, brown feet printing in the sand, "I am the dead, and their land." He laughed. A gull cried. "Stay. Your woman is a ghost, she does n't know it. Neither will you."
